@@ -12,9 +12,9 @@
 
 <div align="center">
   <a href="https://github.com/eduardovitor">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=eduardovitor&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+<img height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardovitor&theme=nord_dark"> </a>
 </div>
-  
-##
+
+<br>
   
  [![@eduardovitor's Holopin board](https://holopin.me/eduardovitor)](https://holopin.io/@eduardovitor)
