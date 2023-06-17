@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/eduardo-v%C3%ADtor-043b3223a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   
-- 🔭 I’m currently looking for a job opportunity in the Cybersecurity area
+- 🔭 I’m currently looking for my first job opportunity
 - 🌱 I’m currently learning English to work abroad
 - 😄 Pronouns: he/him
 
