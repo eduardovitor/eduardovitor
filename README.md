@@ -13,7 +13,7 @@
   
 - [Portfolio](https://myportfolio-opkx-5whxg31vs-eduardo-vitors-projects.vercel.app/) 
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/eduardovitor-t/](https://www.linkedin.com/in/eduardovitor-t/);
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1uFYhmOqnYoz6czWXJnsQSpEbPgeqR9QT/edit?usp=sharing&ouid=114066503953338156742&rtpof=true&sd=true);
 
 - ⚡ Fun fact **I made a presentation on UFOs and extraterrestrial activity.** [Link](https://docs.google.com/presentation/d/1ab2aRelaRp5h8SVYQpMoJLU4Mar8Q-Seho5040ClrzU/edit#slide=id.p).
 
