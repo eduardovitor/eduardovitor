@@ -10,6 +10,8 @@
 - 💬 Ask me about **Cybersec, Python, DevOps**;
 
 - 📫 How to reach me **eduardovitor730@gmail.com**;
+  
+- [Portfolio](https://myportfolio-opkx-5whxg31vs-eduardo-vitors-projects.vercel.app/) 
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/eduardovitor-t/](https://www.linkedin.com/in/eduardovitor-t/);
 
