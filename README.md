@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardovitor&label=Profile%20views&color=0e75b6&style=flat" alt="eduardovitor" /> </p>
 
-- 🌱 I’m currently learning **Cybersecurity, Python, DevOps**;
+- 🌱 I’m currently learning **Cybersecurity and Python**;
 
 - 👯 I’m looking to collaborate on [Querido Diário](https://github.com/okfn-brasil/querido-diario);
 
-- 💬 Ask me about **Cybersec, Python, DevOps**;
+- 💬 Ask me about **Cybersec, Python, Flutter, R**;
 
 - 📫 How to reach me **eduardovitor730@gmail.com**;
   
