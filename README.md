@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **eduardovitor730@gmail.com**;
   
-- [Portfolio](https://portfolio-eduardovitor-hbmtqhwq8-eduardo-vitors-projects.vercel.app/) 
+- [Portfolio](https://portfolio-eduardovitor-6ypawqzyf-eduardo-vitors-projects.vercel.app/) 
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1uFYhmOqnYoz6czWXJnsQSpEbPgeqR9QT/edit?usp=sharing&ouid=114066503953338156742&rtpof=true&sd=true);
 
