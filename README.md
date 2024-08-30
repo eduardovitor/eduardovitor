@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eduardo Vitor</h1>
-<h3 align="center">A backend software developer passionate about creating innovative solutions and securing information and systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardovitor&label=Profile%20views&color=0e75b6&style=flat" alt="eduardovitor" /> </p>
-
-- 🌱 I’m currently learning **Cybersecurity and Python**;
-
-- 👯 I’m looking to collaborate on [Querido Diário](https://github.com/okfn-brasil/querido-diario);
-
-- 💬 Ask me about **Cybersec, Python, Flutter, R**;
 
 - 📫 How to reach me **eduardovitor730@gmail.com**;
 
